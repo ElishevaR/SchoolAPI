@@ -1,0 +1,42 @@
+C:\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.deps.json
+C:\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.runtimeconfig.json
+C:\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.dll
+C:\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.pdb
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.csproj.AssemblyReference.cache
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.AssemblyInfoInputs.cache
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.AssemblyInfo.cs
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.csproj.CoreCompileInputs.cache
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.dll
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\refint\School.Model.dll
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.pdb
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.genruntimeconfig.cache
+C:\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\ref\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.deps.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.runtimeconfig.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.AssemblyInfo.cs
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\refint\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.genruntimeconfig.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\ref\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.deps.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.runtimeconfig.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\bin\Debug\net6.0\School.Model.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.AssemblyInfo.cs
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\refint\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\School.Model.genruntimeconfig.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.Model\obj\Debug\net6.0\ref\School.Model.dll

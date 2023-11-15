@@ -1,0 +1,41 @@
+C:\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.csproj.AssemblyReference.cache
+C:\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.AssemblyInfoInputs.cache
+C:\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.AssemblyInfo.cs
+C:\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.BL.deps.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.BL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.BL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.DAL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.Model.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.AssemblyInfo.cs
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.csproj.CopyComplete
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\refint\School.BL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\ref\School.BL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.BL.deps.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.BL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.BL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.DAL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.Model.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.AssemblyInfo.cs
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.csproj.CopyComplete
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\refint\School.BL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\ref\School.BL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\bin\Debug\net6.0\School.BL.runtimeconfig.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.BL\obj\Debug\net6.0\School.BL.genruntimeconfig.cache

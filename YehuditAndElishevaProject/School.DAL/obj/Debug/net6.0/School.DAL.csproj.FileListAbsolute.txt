@@ -1,0 +1,37 @@
+C:\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.csproj.AssemblyReference.cache
+C:\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfoInputs.cache
+C:\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfo.cs
+C:\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.DAL.deps.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.DAL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.Model.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfo.cs
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.csproj.CopyComplete
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\refint\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\ref\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.DAL.deps.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.DAL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.Model.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.Model.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfo.cs
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.csproj.CopyComplete
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\refint\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.pdb
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\ref\School.DAL.dll
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\bin\Debug\net6.0\School.DAL.runtimeconfig.json
+Y:\Groups\Group_2\רודרמן  אלישבע\dotnet\ש.ב\YehuditAndElishevaProject\School.DAL\obj\Debug\net6.0\School.DAL.genruntimeconfig.cache
